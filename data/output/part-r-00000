@@ -1,0 +1,3080 @@
+Argentina->Australia	9142
+Argentina->Austria	9587
+Argentina->Belgium	6534
+Argentina->Brazil	10233
+Argentina->Canada	7974
+Argentina->Chile	7825
+Argentina->China	8537
+Argentina->Colombia	7922
+Argentina->Czechia	9147
+Argentina->Denmark	8665
+Argentina->Egypt	9571
+Argentina->Finland	7462
+Argentina->France	11758
+Argentina->Germany	6046
+Argentina->Ghana	6859
+Argentina->Greece	5695
+Argentina->Hungary	6198
+Argentina->India	10937
+Argentina->Indonesia	6604
+Argentina->Iran	8727
+Argentina->Iraq	6877
+Argentina->Ireland	8268
+Argentina->Israel	6740
+Argentina->Italy	8337
+Argentina->Japan	7548
+Argentina->Jordan	7281
+Argentina->Kenya	9617
+Argentina->Malaysia	7689
+Argentina->Mexico	7384
+Argentina->Netherlands	9616
+Argentina->New Zealand	7510
+Argentina->Nigeria	10865
+Argentina->Norway	8861
+Argentina->Oman	8055
+Argentina->Peru	7997
+Argentina->Philippines	10045
+Argentina->Poland	7101
+Argentina->Portugal	7367
+Argentina->Qatar	8350
+Argentina->Romania	6478
+Argentina->Russia	10080
+Argentina->Saudi Arabia	6511
+Argentina->Singapore	6790
+Argentina->South Africa	10685
+Argentina->South Korea	8479
+Argentina->Spain	7925
+Argentina->Sweden	11002
+Argentina->Switzerland	7034
+Argentina->Thailand	6693
+Argentina->Turkey	7110
+Argentina->UAE	7283
+Argentina->UK	5848
+Argentina->USA	5923
+Argentina->Ukraine	9084
+Argentina->Vietnam	9646
+Australia->Argentina	8443
+Australia->Austria	9745
+Australia->Belgium	12150
+Australia->Brazil	9984
+Australia->Canada	7105
+Australia->Chile	9350
+Australia->China	9089
+Australia->Colombia	7761
+Australia->Czechia	7850
+Australia->Denmark	7394
+Australia->Egypt	12111
+Australia->Finland	5949
+Australia->France	8059
+Australia->Germany	10286
+Australia->Ghana	9597
+Australia->Greece	8736
+Australia->Hungary	8149
+Australia->India	6111
+Australia->Indonesia	9337
+Australia->Iran	7530
+Australia->Iraq	7111
+Australia->Ireland	8753
+Australia->Israel	8754
+Australia->Italy	12235
+Australia->Japan	6953
+Australia->Jordan	10262
+Australia->Kenya	5450
+Australia->Malaysia	7791
+Australia->Mexico	6427
+Australia->Netherlands	6851
+Australia->New Zealand	6129
+Australia->Nigeria	7440
+Australia->Norway	8605
+Australia->Oman	8275
+Australia->Peru	5675
+Australia->Philippines	9277
+Australia->Poland	11207
+Australia->Portugal	9152
+Australia->Qatar	8069
+Australia->Romania	11172
+Australia->Russia	10243
+Australia->Saudi Arabia	8048
+Australia->Singapore	6875
+Australia->South Africa	9909
+Australia->South Korea	9088
+Australia->Spain	8974
+Australia->Sweden	10418
+Australia->Switzerland	11552
+Australia->Thailand	6007
+Australia->Turkey	6703
+Australia->UAE	9813
+Australia->UK	10097
+Australia->USA	8997
+Australia->Ukraine	6291
+Australia->Vietnam	8905
+Austria->Argentina	6880
+Austria->Australia	7316
+Austria->Belgium	10060
+Austria->Brazil	10884
+Austria->Canada	8739
+Austria->Chile	7830
+Austria->China	9857
+Austria->Colombia	8162
+Austria->Czechia	6190
+Austria->Denmark	7246
+Austria->Egypt	7314
+Austria->Finland	5481
+Austria->France	8513
+Austria->Germany	8804
+Austria->Ghana	9662
+Austria->Greece	7671
+Austria->Hungary	8261
+Austria->India	8998
+Austria->Indonesia	12168
+Austria->Iran	12184
+Austria->Iraq	6673
+Austria->Ireland	9832
+Austria->Israel	6940
+Austria->Italy	6227
+Austria->Japan	7865
+Austria->Jordan	6879
+Austria->Kenya	8037
+Austria->Malaysia	8887
+Austria->Mexico	7575
+Austria->Netherlands	7249
+Austria->New Zealand	9642
+Austria->Nigeria	6768
+Austria->Norway	7811
+Austria->Oman	7229
+Austria->Peru	8086
+Austria->Philippines	7810
+Austria->Poland	9179
+Austria->Portugal	9927
+Austria->Qatar	7672
+Austria->Romania	6638
+Austria->Russia	6498
+Austria->Saudi Arabia	8955
+Austria->Singapore	8301
+Austria->South Africa	7422
+Austria->South Korea	8137
+Austria->Spain	6945
+Austria->Sweden	5956
+Austria->Switzerland	8000
+Austria->Thailand	10400
+Austria->Turkey	7565
+Austria->UAE	10090
+Austria->UK	7674
+Austria->USA	6309
+Austria->Ukraine	8734
+Austria->Vietnam	5407
+Belgium->Argentina	8268
+Belgium->Australia	10736
+Belgium->Austria	7279
+Belgium->Brazil	8234
+Belgium->Canada	8911
+Belgium->Chile	10754
+Belgium->China	5305
+Belgium->Colombia	8892
+Belgium->Czechia	10848
+Belgium->Denmark	6588
+Belgium->Egypt	9836
+Belgium->Finland	9757
+Belgium->France	7785
+Belgium->Germany	6247
+Belgium->Ghana	6580
+Belgium->Greece	8175
+Belgium->Hungary	8357
+Belgium->India	5201
+Belgium->Indonesia	11276
+Belgium->Iran	8098
+Belgium->Iraq	8464
+Belgium->Ireland	8405
+Belgium->Israel	8670
+Belgium->Italy	9237
+Belgium->Japan	6496
+Belgium->Jordan	11692
+Belgium->Kenya	7834
+Belgium->Malaysia	7963
+Belgium->Mexico	8614
+Belgium->Netherlands	9311
+Belgium->New Zealand	7780
+Belgium->Nigeria	6003
+Belgium->Norway	10335
+Belgium->Oman	11487
+Belgium->Peru	9323
+Belgium->Philippines	8540
+Belgium->Poland	8750
+Belgium->Portugal	10148
+Belgium->Qatar	9689
+Belgium->Romania	8170
+Belgium->Russia	10216
+Belgium->Saudi Arabia	4359
+Belgium->Singapore	5851
+Belgium->South Africa	12408
+Belgium->South Korea	8783
+Belgium->Spain	8145
+Belgium->Sweden	12364
+Belgium->Switzerland	6581
+Belgium->Thailand	7727
+Belgium->Turkey	7632
+Belgium->UAE	8913
+Belgium->UK	8446
+Belgium->USA	10628
+Belgium->Ukraine	9511
+Belgium->Vietnam	7901
+Brazil->Argentina	5389
+Brazil->Australia	8392
+Brazil->Austria	9433
+Brazil->Belgium	10493
+Brazil->Canada	10124
+Brazil->Chile	9690
+Brazil->China	9568
+Brazil->Colombia	10488
+Brazil->Czechia	6865
+Brazil->Denmark	9288
+Brazil->Egypt	8503
+Brazil->Finland	7568
+Brazil->France	6166
+Brazil->Germany	8629
+Brazil->Ghana	8997
+Brazil->Greece	6425
+Brazil->Hungary	10260
+Brazil->India	9001
+Brazil->Indonesia	10951
+Brazil->Iran	10712
+Brazil->Iraq	7867
+Brazil->Ireland	7330
+Brazil->Israel	6501
+Brazil->Italy	5123
+Brazil->Japan	6352
+Brazil->Jordan	7878
+Brazil->Kenya	9245
+Brazil->Malaysia	8517
+Brazil->Mexico	9425
+Brazil->Netherlands	7274
+Brazil->New Zealand	6042
+Brazil->Nigeria	8964
+Brazil->Norway	9244
+Brazil->Oman	10733
+Brazil->Peru	5504
+Brazil->Philippines	7408
+Brazil->Poland	8026
+Brazil->Portugal	9513
+Brazil->Qatar	5716
+Brazil->Romania	8723
+Brazil->Russia	7067
+Brazil->Saudi Arabia	8980
+Brazil->Singapore	8412
+Brazil->South Africa	7873
+Brazil->South Korea	8487
+Brazil->Spain	7728
+Brazil->Sweden	6714
+Brazil->Switzerland	6699
+Brazil->Thailand	11979
+Brazil->Turkey	7049
+Brazil->UAE	5686
+Brazil->UK	7696
+Brazil->USA	7339
+Brazil->Ukraine	11667
+Brazil->Vietnam	6177
+Canada->Argentina	7557
+Canada->Australia	9040
+Canada->Austria	11058
+Canada->Belgium	9792
+Canada->Brazil	5261
+Canada->Chile	7555
+Canada->China	8880
+Canada->Colombia	9680
+Canada->Czechia	5253
+Canada->Denmark	7368
+Canada->Egypt	4373
+Canada->Finland	7635
+Canada->France	7662
+Canada->Germany	10771
+Canada->Ghana	9443
+Canada->Greece	7995
+Canada->Hungary	7982
+Canada->India	6734
+Canada->Indonesia	7276
+Canada->Iran	5938
+Canada->Iraq	9267
+Canada->Ireland	9500
+Canada->Israel	9463
+Canada->Italy	6228
+Canada->Japan	8809
+Canada->Jordan	9350
+Canada->Kenya	7163
+Canada->Malaysia	7199
+Canada->Mexico	9396
+Canada->Netherlands	10124
+Canada->New Zealand	7246
+Canada->Nigeria	8702
+Canada->Norway	7065
+Canada->Oman	8957
+Canada->Peru	6886
+Canada->Philippines	7926
+Canada->Poland	9736
+Canada->Portugal	6930
+Canada->Qatar	7271
+Canada->Romania	8727
+Canada->Russia	5724
+Canada->Saudi Arabia	9035
+Canada->Singapore	7174
+Canada->South Africa	7974
+Canada->South Korea	7837
+Canada->Spain	9658
+Canada->Sweden	5575
+Canada->Switzerland	7431
+Canada->Thailand	8014
+Canada->Turkey	8764
+Canada->UAE	8208
+Canada->UK	7355
+Canada->USA	8821
+Canada->Ukraine	7036
+Canada->Vietnam	9657
+Chile->Argentina	7626
+Chile->Australia	8758
+Chile->Austria	6194
+Chile->Belgium	5457
+Chile->Brazil	10270
+Chile->Canada	9886
+Chile->China	7246
+Chile->Colombia	9271
+Chile->Czechia	5889
+Chile->Denmark	9014
+Chile->Egypt	8418
+Chile->Finland	4907
+Chile->France	7914
+Chile->Germany	8232
+Chile->Ghana	7886
+Chile->Greece	9597
+Chile->Hungary	7985
+Chile->India	6286
+Chile->Indonesia	7320
+Chile->Iran	8824
+Chile->Iraq	7140
+Chile->Ireland	11019
+Chile->Israel	7149
+Chile->Italy	7484
+Chile->Japan	7240
+Chile->Jordan	12115
+Chile->Kenya	4464
+Chile->Malaysia	6646
+Chile->Mexico	11482
+Chile->Netherlands	8029
+Chile->New Zealand	10114
+Chile->Nigeria	9939
+Chile->Norway	6488
+Chile->Oman	8333
+Chile->Peru	7475
+Chile->Philippines	11155
+Chile->Poland	7799
+Chile->Portugal	9743
+Chile->Qatar	10719
+Chile->Romania	6457
+Chile->Russia	8065
+Chile->Saudi Arabia	9508
+Chile->Singapore	8064
+Chile->South Africa	5771
+Chile->South Korea	10147
+Chile->Spain	8589
+Chile->Sweden	11928
+Chile->Switzerland	8379
+Chile->Thailand	5216
+Chile->Turkey	7675
+Chile->UAE	9827
+Chile->UK	6647
+Chile->USA	5862
+Chile->Ukraine	9910
+Chile->Vietnam	9080
+China->Argentina	6172
+China->Australia	9497
+China->Austria	7749
+China->Belgium	6474
+China->Brazil	8486
+China->Canada	6228
+China->Chile	9220
+China->Colombia	8298
+China->Czechia	10140
+China->Denmark	6598
+China->Egypt	7906
+China->Finland	6406
+China->France	6954
+China->Germany	7319
+China->Ghana	9437
+China->Greece	9883
+China->Hungary	7951
+China->India	7055
+China->Indonesia	10461
+China->Iran	7558
+China->Iraq	8739
+China->Ireland	5741
+China->Israel	11044
+China->Italy	10334
+China->Japan	5011
+China->Jordan	8270
+China->Kenya	7778
+China->Malaysia	7290
+China->Mexico	9608
+China->Netherlands	8600
+China->New Zealand	6599
+China->Nigeria	6737
+China->Norway	9604
+China->Oman	6851
+China->Peru	5498
+China->Philippines	7623
+China->Poland	10351
+China->Portugal	7031
+China->Qatar	9984
+China->Romania	8272
+China->Russia	8367
+China->Saudi Arabia	6672
+China->Singapore	7003
+China->South Africa	7416
+China->South Korea	8402
+China->Spain	8598
+China->Sweden	10079
+China->Switzerland	10604
+China->Thailand	6904
+China->Turkey	5117
+China->UAE	8966
+China->UK	8826
+China->USA	5773
+China->Ukraine	10941
+China->Vietnam	8061
+Colombia->Argentina	8011
+Colombia->Australia	6796
+Colombia->Austria	7277
+Colombia->Belgium	6291
+Colombia->Brazil	6928
+Colombia->Canada	11181
+Colombia->Chile	6947
+Colombia->China	6502
+Colombia->Czechia	9307
+Colombia->Denmark	11996
+Colombia->Egypt	9939
+Colombia->Finland	7975
+Colombia->France	7684
+Colombia->Germany	8841
+Colombia->Ghana	8996
+Colombia->Greece	8000
+Colombia->Hungary	5108
+Colombia->India	10571
+Colombia->Indonesia	7952
+Colombia->Iran	7239
+Colombia->Iraq	6885
+Colombia->Ireland	11681
+Colombia->Israel	8775
+Colombia->Italy	7562
+Colombia->Japan	6630
+Colombia->Jordan	5593
+Colombia->Kenya	9184
+Colombia->Malaysia	6207
+Colombia->Mexico	6344
+Colombia->Netherlands	6285
+Colombia->New Zealand	8233
+Colombia->Nigeria	8182
+Colombia->Norway	6253
+Colombia->Oman	7023
+Colombia->Peru	7745
+Colombia->Philippines	6219
+Colombia->Poland	7285
+Colombia->Portugal	6999
+Colombia->Qatar	5899
+Colombia->Romania	6751
+Colombia->Russia	8807
+Colombia->Saudi Arabia	8484
+Colombia->Singapore	7113
+Colombia->South Africa	7623
+Colombia->South Korea	11038
+Colombia->Spain	6732
+Colombia->Sweden	9667
+Colombia->Switzerland	7747
+Colombia->Thailand	9654
+Colombia->Turkey	8142
+Colombia->UAE	6120
+Colombia->UK	5342
+Colombia->USA	7554
+Colombia->Ukraine	10120
+Colombia->Vietnam	8221
+Czechia->Argentina	11135
+Czechia->Australia	7413
+Czechia->Austria	7338
+Czechia->Belgium	6785
+Czechia->Brazil	8658
+Czechia->Canada	12223
+Czechia->Chile	5778
+Czechia->China	8429
+Czechia->Colombia	12734
+Czechia->Denmark	10224
+Czechia->Egypt	9129
+Czechia->Finland	6434
+Czechia->France	7173
+Czechia->Germany	8172
+Czechia->Ghana	9899
+Czechia->Greece	6762
+Czechia->Hungary	8675
+Czechia->India	6227
+Czechia->Indonesia	7807
+Czechia->Iran	6308
+Czechia->Iraq	8285
+Czechia->Ireland	10177
+Czechia->Israel	10748
+Czechia->Italy	11278
+Czechia->Japan	8485
+Czechia->Jordan	10593
+Czechia->Kenya	5376
+Czechia->Malaysia	9330
+Czechia->Mexico	7315
+Czechia->Netherlands	6209
+Czechia->New Zealand	8186
+Czechia->Nigeria	8347
+Czechia->Norway	7738
+Czechia->Oman	8783
+Czechia->Peru	9168
+Czechia->Philippines	7072
+Czechia->Poland	10507
+Czechia->Portugal	7650
+Czechia->Qatar	8135
+Czechia->Romania	6519
+Czechia->Russia	9557
+Czechia->Saudi Arabia	8225
+Czechia->Singapore	8474
+Czechia->South Africa	8662
+Czechia->South Korea	8525
+Czechia->Spain	6565
+Czechia->Sweden	9862
+Czechia->Switzerland	6644
+Czechia->Thailand	7239
+Czechia->Turkey	6886
+Czechia->UAE	6114
+Czechia->UK	6260
+Czechia->USA	9424
+Czechia->Ukraine	7609
+Czechia->Vietnam	8515
+Denmark->Argentina	7797
+Denmark->Australia	8565
+Denmark->Austria	9920
+Denmark->Belgium	8360
+Denmark->Brazil	8674
+Denmark->Canada	11105
+Denmark->Chile	8714
+Denmark->China	7806
+Denmark->Colombia	9980
+Denmark->Czechia	12627
+Denmark->Egypt	7110
+Denmark->Finland	6279
+Denmark->France	10242
+Denmark->Germany	8631
+Denmark->Ghana	6383
+Denmark->Greece	8120
+Denmark->Hungary	5998
+Denmark->India	6681
+Denmark->Indonesia	6459
+Denmark->Iran	9094
+Denmark->Iraq	6457
+Denmark->Ireland	8715
+Denmark->Israel	8461
+Denmark->Italy	6383
+Denmark->Japan	8062
+Denmark->Jordan	9983
+Denmark->Kenya	6309
+Denmark->Malaysia	9781
+Denmark->Mexico	9542
+Denmark->Netherlands	6970
+Denmark->New Zealand	6592
+Denmark->Nigeria	10659
+Denmark->Norway	8867
+Denmark->Oman	6747
+Denmark->Peru	9117
+Denmark->Philippines	7706
+Denmark->Poland	9692
+Denmark->Portugal	5129
+Denmark->Qatar	10175
+Denmark->Romania	9275
+Denmark->Russia	4858
+Denmark->Saudi Arabia	6234
+Denmark->Singapore	7759
+Denmark->South Africa	8075
+Denmark->South Korea	8374
+Denmark->Spain	10122
+Denmark->Sweden	9118
+Denmark->Switzerland	9974
+Denmark->Thailand	9156
+Denmark->Turkey	9107
+Denmark->UAE	8916
+Denmark->UK	9320
+Denmark->USA	7082
+Denmark->Ukraine	7787
+Denmark->Vietnam	7014
+Egypt->Argentina	7001
+Egypt->Australia	6069
+Egypt->Austria	10168
+Egypt->Belgium	10721
+Egypt->Brazil	10946
+Egypt->Canada	5560
+Egypt->Chile	9710
+Egypt->China	5009
+Egypt->Colombia	7318
+Egypt->Czechia	10151
+Egypt->Denmark	6858
+Egypt->Finland	9111
+Egypt->France	6379
+Egypt->Germany	7348
+Egypt->Ghana	10804
+Egypt->Greece	5792
+Egypt->Hungary	8235
+Egypt->India	9917
+Egypt->Indonesia	7457
+Egypt->Iran	11602
+Egypt->Iraq	8094
+Egypt->Ireland	10727
+Egypt->Israel	8633
+Egypt->Italy	7620
+Egypt->Japan	7195
+Egypt->Jordan	6653
+Egypt->Kenya	6679
+Egypt->Malaysia	6186
+Egypt->Mexico	8868
+Egypt->Netherlands	7223
+Egypt->New Zealand	5786
+Egypt->Nigeria	7398
+Egypt->Norway	6239
+Egypt->Oman	8320
+Egypt->Peru	4165
+Egypt->Philippines	7436
+Egypt->Poland	7665
+Egypt->Portugal	8823
+Egypt->Qatar	6943
+Egypt->Romania	6869
+Egypt->Russia	7024
+Egypt->Saudi Arabia	6236
+Egypt->Singapore	8549
+Egypt->South Africa	8262
+Egypt->South Korea	7599
+Egypt->Spain	6992
+Egypt->Sweden	7256
+Egypt->Switzerland	9392
+Egypt->Thailand	7258
+Egypt->Turkey	9479
+Egypt->UAE	7032
+Egypt->UK	8103
+Egypt->USA	8434
+Egypt->Ukraine	10507
+Egypt->Vietnam	10607
+Finland->Argentina	8030
+Finland->Australia	8566
+Finland->Austria	7428
+Finland->Belgium	8443
+Finland->Brazil	7257
+Finland->Canada	5741
+Finland->Chile	6476
+Finland->China	8582
+Finland->Colombia	10210
+Finland->Czechia	7528
+Finland->Denmark	9059
+Finland->Egypt	5096
+Finland->France	8692
+Finland->Germany	7190
+Finland->Ghana	9421
+Finland->Greece	8753
+Finland->Hungary	10229
+Finland->India	8098
+Finland->Indonesia	8247
+Finland->Iran	10700
+Finland->Iraq	8394
+Finland->Ireland	10252
+Finland->Israel	7365
+Finland->Italy	4897
+Finland->Japan	9141
+Finland->Jordan	11057
+Finland->Kenya	5311
+Finland->Malaysia	6728
+Finland->Mexico	7271
+Finland->Netherlands	7204
+Finland->New Zealand	6929
+Finland->Nigeria	9834
+Finland->Norway	4998
+Finland->Oman	8503
+Finland->Peru	7990
+Finland->Philippines	9497
+Finland->Poland	6868
+Finland->Portugal	4741
+Finland->Qatar	7873
+Finland->Romania	8469
+Finland->Russia	9814
+Finland->Saudi Arabia	10397
+Finland->Singapore	8748
+Finland->South Africa	5055
+Finland->South Korea	8659
+Finland->Spain	7729
+Finland->Sweden	13536
+Finland->Switzerland	6473
+Finland->Thailand	9002
+Finland->Turkey	6252
+Finland->UAE	7100
+Finland->UK	8487
+Finland->USA	9531
+Finland->Ukraine	7396
+Finland->Vietnam	8017
+France->Argentina	9965
+France->Australia	7851
+France->Austria	9825
+France->Belgium	9508
+France->Brazil	7264
+France->Canada	11553
+France->Chile	7645
+France->China	6518
+France->Colombia	10459
+France->Czechia	7335
+France->Denmark	8683
+France->Egypt	6787
+France->Finland	6533
+France->Germany	9511
+France->Ghana	10246
+France->Greece	7837
+France->Hungary	6713
+France->India	10354
+France->Indonesia	8848
+France->Iran	8557
+France->Iraq	7568
+France->Ireland	9575
+France->Israel	11381
+France->Italy	7737
+France->Japan	9538
+France->Jordan	6365
+France->Kenya	6547
+France->Malaysia	7851
+France->Mexico	5947
+France->Netherlands	4978
+France->New Zealand	6995
+France->Nigeria	5549
+France->Norway	8925
+France->Oman	7321
+France->Peru	7430
+France->Philippines	8968
+France->Poland	10588
+France->Portugal	7984
+France->Qatar	6576
+France->Romania	5915
+France->Russia	7363
+France->Saudi Arabia	8537
+France->Singapore	7933
+France->South Africa	8494
+France->South Korea	6508
+France->Spain	8412
+France->Sweden	8086
+France->Switzerland	7219
+France->Thailand	9376
+France->Turkey	8400
+France->UAE	8814
+France->UK	5203
+France->USA	9226
+France->Ukraine	9317
+France->Vietnam	7311
+Germany->Argentina	10064
+Germany->Australia	8179
+Germany->Austria	8689
+Germany->Belgium	6095
+Germany->Brazil	10772
+Germany->Canada	5463
+Germany->Chile	6422
+Germany->China	8676
+Germany->Colombia	8603
+Germany->Czechia	10609
+Germany->Denmark	8524
+Germany->Egypt	11003
+Germany->Finland	6227
+Germany->France	8986
+Germany->Ghana	6647
+Germany->Greece	6401
+Germany->Hungary	10124
+Germany->India	6505
+Germany->Indonesia	6541
+Germany->Iran	8718
+Germany->Iraq	8402
+Germany->Ireland	6111
+Germany->Israel	7042
+Germany->Italy	7434
+Germany->Japan	5846
+Germany->Jordan	7368
+Germany->Kenya	9900
+Germany->Malaysia	7412
+Germany->Mexico	8342
+Germany->Netherlands	8504
+Germany->New Zealand	5871
+Germany->Nigeria	8758
+Germany->Norway	8952
+Germany->Oman	4993
+Germany->Peru	8948
+Germany->Philippines	8703
+Germany->Poland	10807
+Germany->Portugal	5156
+Germany->Qatar	6788
+Germany->Romania	9514
+Germany->Russia	7700
+Germany->Saudi Arabia	8680
+Germany->Singapore	6526
+Germany->South Africa	11953
+Germany->South Korea	8488
+Germany->Spain	9900
+Germany->Sweden	8468
+Germany->Switzerland	9733
+Germany->Thailand	7012
+Germany->Turkey	7907
+Germany->UAE	10933
+Germany->UK	10321
+Germany->USA	8495
+Germany->Ukraine	7817
+Germany->Vietnam	11778
+Ghana->Argentina	9442
+Ghana->Australia	7243
+Ghana->Austria	6212
+Ghana->Belgium	11248
+Ghana->Brazil	5777
+Ghana->Canada	7113
+Ghana->Chile	8652
+Ghana->China	10128
+Ghana->Colombia	8097
+Ghana->Czechia	8007
+Ghana->Denmark	8652
+Ghana->Egypt	6543
+Ghana->Finland	9316
+Ghana->France	9292
+Ghana->Germany	10767
+Ghana->Greece	7259
+Ghana->Hungary	8822
+Ghana->India	9481
+Ghana->Indonesia	9723
+Ghana->Iran	7567
+Ghana->Iraq	5575
+Ghana->Ireland	9361
+Ghana->Israel	5737
+Ghana->Italy	7199
+Ghana->Japan	6420
+Ghana->Jordan	11178
+Ghana->Kenya	10254
+Ghana->Malaysia	6747
+Ghana->Mexico	7202
+Ghana->Netherlands	7511
+Ghana->New Zealand	7241
+Ghana->Nigeria	7992
+Ghana->Norway	10228
+Ghana->Oman	7740
+Ghana->Peru	8329
+Ghana->Philippines	10094
+Ghana->Poland	9085
+Ghana->Portugal	7720
+Ghana->Qatar	9151
+Ghana->Romania	5210
+Ghana->Russia	8495
+Ghana->Saudi Arabia	8225
+Ghana->Singapore	9698
+Ghana->South Africa	9943
+Ghana->South Korea	5265
+Ghana->Spain	8306
+Ghana->Sweden	9532
+Ghana->Switzerland	6041
+Ghana->Thailand	9531
+Ghana->Turkey	8115
+Ghana->UAE	6044
+Ghana->UK	7586
+Ghana->USA	6320
+Ghana->Ukraine	10236
+Ghana->Vietnam	7562
+Greece->Argentina	9554
+Greece->Australia	7869
+Greece->Austria	9131
+Greece->Belgium	10462
+Greece->Brazil	11409
+Greece->Canada	9453
+Greece->Chile	8429
+Greece->China	9483
+Greece->Colombia	7972
+Greece->Czechia	9767
+Greece->Denmark	7719
+Greece->Egypt	7453
+Greece->Finland	8896
+Greece->France	5938
+Greece->Germany	5272
+Greece->Ghana	8879
+Greece->Hungary	9869
+Greece->India	7353
+Greece->Indonesia	6785
+Greece->Iran	6944
+Greece->Iraq	8730
+Greece->Ireland	6274
+Greece->Israel	6367
+Greece->Italy	6824
+Greece->Japan	10415
+Greece->Jordan	8808
+Greece->Kenya	6520
+Greece->Malaysia	5991
+Greece->Mexico	5621
+Greece->Netherlands	10585
+Greece->New Zealand	7972
+Greece->Nigeria	9624
+Greece->Norway	7316
+Greece->Oman	6253
+Greece->Peru	7728
+Greece->Philippines	9867
+Greece->Poland	11352
+Greece->Portugal	9730
+Greece->Qatar	9987
+Greece->Romania	9011
+Greece->Russia	10857
+Greece->Saudi Arabia	7315
+Greece->Singapore	8641
+Greece->South Africa	7087
+Greece->South Korea	9834
+Greece->Spain	9578
+Greece->Sweden	6522
+Greece->Switzerland	10031
+Greece->Thailand	11640
+Greece->Turkey	7447
+Greece->UAE	8366
+Greece->UK	7066
+Greece->USA	9609
+Greece->Ukraine	9276
+Greece->Vietnam	7744
+Hungary->Argentina	10371
+Hungary->Australia	8109
+Hungary->Austria	7213
+Hungary->Belgium	9078
+Hungary->Brazil	4576
+Hungary->Canada	8233
+Hungary->Chile	7437
+Hungary->China	9297
+Hungary->Colombia	7509
+Hungary->Czechia	5763
+Hungary->Denmark	8679
+Hungary->Egypt	11952
+Hungary->Finland	7728
+Hungary->France	6235
+Hungary->Germany	6240
+Hungary->Ghana	5547
+Hungary->Greece	7090
+Hungary->India	6982
+Hungary->Indonesia	8656
+Hungary->Iran	8283
+Hungary->Iraq	6510
+Hungary->Ireland	9497
+Hungary->Israel	8024
+Hungary->Italy	10581
+Hungary->Japan	7825
+Hungary->Jordan	6556
+Hungary->Kenya	6870
+Hungary->Malaysia	7790
+Hungary->Mexico	5624
+Hungary->Netherlands	8264
+Hungary->New Zealand	8014
+Hungary->Nigeria	6122
+Hungary->Norway	5172
+Hungary->Oman	7679
+Hungary->Peru	9099
+Hungary->Philippines	6982
+Hungary->Poland	3554
+Hungary->Portugal	8853
+Hungary->Qatar	6005
+Hungary->Romania	8963
+Hungary->Russia	6791
+Hungary->Saudi Arabia	9428
+Hungary->Singapore	9315
+Hungary->South Africa	8157
+Hungary->South Korea	9969
+Hungary->Spain	8257
+Hungary->Sweden	9670
+Hungary->Switzerland	8975
+Hungary->Thailand	6013
+Hungary->Turkey	8028
+Hungary->UAE	11092
+Hungary->UK	7345
+Hungary->USA	7312
+Hungary->Ukraine	8290
+Hungary->Vietnam	9435
+India->Argentina	7955
+India->Australia	5580
+India->Austria	8323
+India->Belgium	8210
+India->Brazil	9094
+India->Canada	8267
+India->Chile	10335
+India->China	6484
+India->Colombia	7120
+India->Czechia	8772
+India->Denmark	7153
+India->Egypt	7411
+India->Finland	8365
+India->France	7545
+India->Germany	10010
+India->Ghana	7284
+India->Greece	7612
+India->Hungary	7011
+India->Indonesia	4579
+India->Iran	8495
+India->Iraq	6837
+India->Ireland	6500
+India->Israel	8510
+India->Italy	10809
+India->Japan	6633
+India->Jordan	6518
+India->Kenya	8637
+India->Malaysia	9231
+India->Mexico	8531
+India->Netherlands	8517
+India->New Zealand	5823
+India->Nigeria	9127
+India->Norway	9001
+India->Oman	7665
+India->Peru	5349
+India->Philippines	6800
+India->Poland	6654
+India->Portugal	8365
+India->Qatar	5727
+India->Romania	8297
+India->Russia	8466
+India->Saudi Arabia	7133
+India->Singapore	6513
+India->South Africa	7462
+India->South Korea	9072
+India->Spain	7181
+India->Sweden	7852
+India->Switzerland	7332
+India->Thailand	11902
+India->Turkey	9710
+India->UAE	6724
+India->UK	8629
+India->USA	8379
+India->Ukraine	12006
+India->Vietnam	11038
+Indonesia->Argentina	6672
+Indonesia->Australia	6948
+Indonesia->Austria	4981
+Indonesia->Belgium	8161
+Indonesia->Brazil	7097
+Indonesia->Canada	12155
+Indonesia->Chile	7487
+Indonesia->China	7596
+Indonesia->Colombia	7061
+Indonesia->Czechia	8128
+Indonesia->Denmark	9185
+Indonesia->Egypt	8076
+Indonesia->Finland	10143
+Indonesia->France	5042
+Indonesia->Germany	6593
+Indonesia->Ghana	7214
+Indonesia->Greece	8906
+Indonesia->Hungary	9788
+Indonesia->India	6583
+Indonesia->Iran	7226
+Indonesia->Iraq	8939
+Indonesia->Ireland	9755
+Indonesia->Israel	8712
+Indonesia->Italy	7875
+Indonesia->Japan	7505
+Indonesia->Jordan	6845
+Indonesia->Kenya	5691
+Indonesia->Malaysia	9653
+Indonesia->Mexico	7759
+Indonesia->Netherlands	8712
+Indonesia->New Zealand	8951
+Indonesia->Nigeria	8739
+Indonesia->Norway	8661
+Indonesia->Oman	8869
+Indonesia->Peru	6480
+Indonesia->Philippines	5659
+Indonesia->Poland	9114
+Indonesia->Portugal	6993
+Indonesia->Qatar	8183
+Indonesia->Romania	9995
+Indonesia->Russia	6206
+Indonesia->Saudi Arabia	7105
+Indonesia->Singapore	9312
+Indonesia->South Africa	8705
+Indonesia->South Korea	9289
+Indonesia->Spain	8110
+Indonesia->Sweden	8846
+Indonesia->Switzerland	5591
+Indonesia->Thailand	9642
+Indonesia->Turkey	10145
+Indonesia->UAE	10739
+Indonesia->UK	8911
+Indonesia->USA	11355
+Indonesia->Ukraine	8309
+Indonesia->Vietnam	7902
+Iran->Argentina	7605
+Iran->Australia	7912
+Iran->Austria	7991
+Iran->Belgium	7464
+Iran->Brazil	8860
+Iran->Canada	7385
+Iran->Chile	7073
+Iran->China	8123
+Iran->Colombia	9464
+Iran->Czechia	8642
+Iran->Denmark	5301
+Iran->Egypt	7767
+Iran->Finland	8569
+Iran->France	6901
+Iran->Germany	8850
+Iran->Ghana	7416
+Iran->Greece	7832
+Iran->Hungary	9294
+Iran->India	9525
+Iran->Indonesia	10396
+Iran->Iraq	4742
+Iran->Ireland	8411
+Iran->Israel	7191
+Iran->Italy	6360
+Iran->Japan	9896
+Iran->Jordan	10069
+Iran->Kenya	7682
+Iran->Malaysia	8211
+Iran->Mexico	11666
+Iran->Netherlands	8901
+Iran->New Zealand	8366
+Iran->Nigeria	7816
+Iran->Norway	10104
+Iran->Oman	9134
+Iran->Peru	11426
+Iran->Philippines	5498
+Iran->Poland	8713
+Iran->Portugal	9286
+Iran->Qatar	8805
+Iran->Romania	8559
+Iran->Russia	10652
+Iran->Saudi Arabia	7405
+Iran->Singapore	7186
+Iran->South Africa	6570
+Iran->South Korea	5864
+Iran->Spain	7991
+Iran->Sweden	7637
+Iran->Switzerland	6730
+Iran->Thailand	8264
+Iran->Turkey	7157
+Iran->UAE	8458
+Iran->UK	7461
+Iran->USA	6153
+Iran->Ukraine	9086
+Iran->Vietnam	8289
+Iraq->Argentina	8804
+Iraq->Australia	7879
+Iraq->Austria	10880
+Iraq->Belgium	9601
+Iraq->Brazil	10258
+Iraq->Canada	10923
+Iraq->Chile	5582
+Iraq->China	6873
+Iraq->Colombia	9087
+Iraq->Czechia	13030
+Iraq->Denmark	6157
+Iraq->Egypt	11027
+Iraq->Finland	7655
+Iraq->France	7981
+Iraq->Germany	8860
+Iraq->Ghana	10873
+Iraq->Greece	5491
+Iraq->Hungary	8230
+Iraq->India	11400
+Iraq->Indonesia	9024
+Iraq->Iran	8488
+Iraq->Ireland	7787
+Iraq->Israel	7706
+Iraq->Italy	8789
+Iraq->Japan	11926
+Iraq->Jordan	7510
+Iraq->Kenya	9748
+Iraq->Malaysia	8065
+Iraq->Mexico	7523
+Iraq->Netherlands	7336
+Iraq->New Zealand	8855
+Iraq->Nigeria	9137
+Iraq->Norway	10730
+Iraq->Oman	6284
+Iraq->Peru	8066
+Iraq->Philippines	8539
+Iraq->Poland	11210
+Iraq->Portugal	4105
+Iraq->Qatar	8676
+Iraq->Romania	8542
+Iraq->Russia	5740
+Iraq->Saudi Arabia	7588
+Iraq->Singapore	8184
+Iraq->South Africa	6349
+Iraq->South Korea	7749
+Iraq->Spain	9049
+Iraq->Sweden	6982
+Iraq->Switzerland	9743
+Iraq->Thailand	9179
+Iraq->Turkey	9662
+Iraq->UAE	12224
+Iraq->UK	8208
+Iraq->USA	8584
+Iraq->Ukraine	6366
+Iraq->Vietnam	6294
+Ireland->Argentina	5008
+Ireland->Australia	9272
+Ireland->Austria	8824
+Ireland->Belgium	7135
+Ireland->Brazil	6256
+Ireland->Canada	9693
+Ireland->Chile	8610
+Ireland->China	6785
+Ireland->Colombia	9119
+Ireland->Czechia	6245
+Ireland->Denmark	6319
+Ireland->Egypt	5755
+Ireland->Finland	8619
+Ireland->France	7887
+Ireland->Germany	6929
+Ireland->Ghana	7911
+Ireland->Greece	9814
+Ireland->Hungary	9109
+Ireland->India	5522
+Ireland->Indonesia	11079
+Ireland->Iran	9537
+Ireland->Iraq	7583
+Ireland->Israel	7771
+Ireland->Italy	8220
+Ireland->Japan	6950
+Ireland->Jordan	7071
+Ireland->Kenya	11775
+Ireland->Malaysia	5460
+Ireland->Mexico	8628
+Ireland->Netherlands	8817
+Ireland->New Zealand	7980
+Ireland->Nigeria	8317
+Ireland->Norway	9056
+Ireland->Oman	5442
+Ireland->Peru	10869
+Ireland->Philippines	5912
+Ireland->Poland	5415
+Ireland->Portugal	7746
+Ireland->Qatar	6566
+Ireland->Romania	8766
+Ireland->Russia	7820
+Ireland->Saudi Arabia	4951
+Ireland->Singapore	7817
+Ireland->South Africa	8345
+Ireland->South Korea	7760
+Ireland->Spain	8027
+Ireland->Sweden	6815
+Ireland->Switzerland	6028
+Ireland->Thailand	11796
+Ireland->Turkey	7383
+Ireland->UAE	10211
+Ireland->UK	6444
+Ireland->USA	7879
+Ireland->Ukraine	8388
+Ireland->Vietnam	9233
+Israel->Argentina	8912
+Israel->Australia	7966
+Israel->Austria	7951
+Israel->Belgium	9563
+Israel->Brazil	7491
+Israel->Canada	7510
+Israel->Chile	9106
+Israel->China	7638
+Israel->Colombia	6341
+Israel->Czechia	10756
+Israel->Denmark	7555
+Israel->Egypt	8602
+Israel->Finland	6871
+Israel->France	8750
+Israel->Germany	12340
+Israel->Ghana	6112
+Israel->Greece	7216
+Israel->Hungary	7639
+Israel->India	9140
+Israel->Indonesia	8963
+Israel->Iran	8177
+Israel->Iraq	7223
+Israel->Ireland	8658
+Israel->Italy	6021
+Israel->Japan	6124
+Israel->Jordan	10060
+Israel->Kenya	7284
+Israel->Malaysia	9841
+Israel->Mexico	8590
+Israel->Netherlands	7054
+Israel->New Zealand	7639
+Israel->Nigeria	6250
+Israel->Norway	9778
+Israel->Oman	8010
+Israel->Peru	8943
+Israel->Philippines	9787
+Israel->Poland	7818
+Israel->Portugal	7228
+Israel->Qatar	7735
+Israel->Romania	8894
+Israel->Russia	8173
+Israel->Saudi Arabia	7509
+Israel->Singapore	8241
+Israel->South Africa	7600
+Israel->South Korea	7528
+Israel->Spain	7797
+Israel->Sweden	9413
+Israel->Switzerland	7148
+Israel->Thailand	8387
+Israel->Turkey	7486
+Israel->UAE	8927
+Israel->UK	6807
+Israel->USA	9548
+Israel->Ukraine	12282
+Israel->Vietnam	9838
+Italy->Argentina	11165
+Italy->Australia	5860
+Italy->Austria	7231
+Italy->Belgium	7832
+Italy->Brazil	9754
+Italy->Canada	9447
+Italy->Chile	7729
+Italy->China	9432
+Italy->Colombia	7946
+Italy->Czechia	7698
+Italy->Denmark	8089
+Italy->Egypt	6396
+Italy->Finland	5766
+Italy->France	6954
+Italy->Germany	8889
+Italy->Ghana	7018
+Italy->Greece	8396
+Italy->Hungary	5710
+Italy->India	6331
+Italy->Indonesia	7713
+Italy->Iran	9514
+Italy->Iraq	9724
+Italy->Ireland	6121
+Italy->Israel	11005
+Italy->Japan	7901
+Italy->Jordan	11451
+Italy->Kenya	6048
+Italy->Malaysia	10286
+Italy->Mexico	7823
+Italy->Netherlands	7710
+Italy->New Zealand	7299
+Italy->Nigeria	8617
+Italy->Norway	9700
+Italy->Oman	6371
+Italy->Peru	10741
+Italy->Philippines	6615
+Italy->Poland	7001
+Italy->Portugal	7461
+Italy->Qatar	8544
+Italy->Romania	9029
+Italy->Russia	11606
+Italy->Saudi Arabia	9054
+Italy->Singapore	8514
+Italy->South Africa	11351
+Italy->South Korea	8476
+Italy->Spain	8070
+Italy->Sweden	9035
+Italy->Switzerland	10526
+Italy->Thailand	6152
+Italy->Turkey	6118
+Italy->UAE	7490
+Italy->UK	6646
+Italy->USA	8752
+Italy->Ukraine	6390
+Italy->Vietnam	8194
+Japan->Argentina	8583
+Japan->Australia	8683
+Japan->Austria	7185
+Japan->Belgium	9727
+Japan->Brazil	10217
+Japan->Canada	7824
+Japan->Chile	7663
+Japan->China	7873
+Japan->Colombia	8265
+Japan->Czechia	7297
+Japan->Denmark	9024
+Japan->Egypt	7579
+Japan->Finland	8099
+Japan->France	9205
+Japan->Germany	7932
+Japan->Ghana	7858
+Japan->Greece	8079
+Japan->Hungary	6436
+Japan->India	7972
+Japan->Indonesia	6832
+Japan->Iran	6337
+Japan->Iraq	5806
+Japan->Ireland	8064
+Japan->Israel	7211
+Japan->Italy	7334
+Japan->Jordan	9281
+Japan->Kenya	10429
+Japan->Malaysia	6511
+Japan->Mexico	7069
+Japan->Netherlands	5911
+Japan->New Zealand	8651
+Japan->Nigeria	8960
+Japan->Norway	6826
+Japan->Oman	9359
+Japan->Peru	9268
+Japan->Philippines	8478
+Japan->Poland	7673
+Japan->Portugal	10071
+Japan->Qatar	9829
+Japan->Romania	11164
+Japan->Russia	7482
+Japan->Saudi Arabia	5912
+Japan->Singapore	10453
+Japan->South Africa	4260
+Japan->South Korea	7491
+Japan->Spain	8431
+Japan->Sweden	8752
+Japan->Switzerland	9173
+Japan->Thailand	8167
+Japan->Turkey	9148
+Japan->UAE	6341
+Japan->UK	8893
+Japan->USA	7913
+Japan->Ukraine	8731
+Japan->Vietnam	5669
+Jordan->Argentina	8351
+Jordan->Australia	7715
+Jordan->Austria	8320
+Jordan->Belgium	6262
+Jordan->Brazil	6672
+Jordan->Canada	9952
+Jordan->Chile	9129
+Jordan->China	8332
+Jordan->Colombia	7218
+Jordan->Czechia	8292
+Jordan->Denmark	6647
+Jordan->Egypt	7687
+Jordan->Finland	6243
+Jordan->France	8728
+Jordan->Germany	7954
+Jordan->Ghana	10033
+Jordan->Greece	8551
+Jordan->Hungary	6799
+Jordan->India	7623
+Jordan->Indonesia	9070
+Jordan->Iran	6966
+Jordan->Iraq	10813
+Jordan->Ireland	8563
+Jordan->Israel	7051
+Jordan->Italy	8742
+Jordan->Japan	7564
+Jordan->Kenya	9432
+Jordan->Malaysia	8700
+Jordan->Mexico	6332
+Jordan->Netherlands	6662
+Jordan->New Zealand	7876
+Jordan->Nigeria	9340
+Jordan->Norway	9012
+Jordan->Oman	8127
+Jordan->Peru	7331
+Jordan->Philippines	7245
+Jordan->Poland	9182
+Jordan->Portugal	5828
+Jordan->Qatar	7864
+Jordan->Romania	9310
+Jordan->Russia	9544
+Jordan->Saudi Arabia	5329
+Jordan->Singapore	9279
+Jordan->South Africa	11252
+Jordan->South Korea	8118
+Jordan->Spain	7257
+Jordan->Sweden	9336
+Jordan->Switzerland	6765
+Jordan->Thailand	7672
+Jordan->Turkey	7472
+Jordan->UAE	7043
+Jordan->UK	8495
+Jordan->USA	7425
+Jordan->Ukraine	8103
+Jordan->Vietnam	4691
+Kenya->Argentina	9136
+Kenya->Australia	5804
+Kenya->Austria	7128
+Kenya->Belgium	4201
+Kenya->Brazil	8378
+Kenya->Canada	9050
+Kenya->Chile	8286
+Kenya->China	9144
+Kenya->Colombia	8179
+Kenya->Czechia	8682
+Kenya->Denmark	9785
+Kenya->Egypt	7554
+Kenya->Finland	8273
+Kenya->France	7120
+Kenya->Germany	10727
+Kenya->Ghana	8200
+Kenya->Greece	8537
+Kenya->Hungary	7794
+Kenya->India	7990
+Kenya->Indonesia	7330
+Kenya->Iran	8455
+Kenya->Iraq	9152
+Kenya->Ireland	11575
+Kenya->Israel	6950
+Kenya->Italy	8337
+Kenya->Japan	9856
+Kenya->Jordan	8349
+Kenya->Malaysia	12441
+Kenya->Mexico	6856
+Kenya->Netherlands	9508
+Kenya->New Zealand	9524
+Kenya->Nigeria	5891
+Kenya->Norway	12057
+Kenya->Oman	9043
+Kenya->Peru	6552
+Kenya->Philippines	8344
+Kenya->Poland	9211
+Kenya->Portugal	8321
+Kenya->Qatar	4735
+Kenya->Romania	5974
+Kenya->Russia	5669
+Kenya->Saudi Arabia	7422
+Kenya->Singapore	5898
+Kenya->South Africa	7628
+Kenya->South Korea	7852
+Kenya->Spain	8486
+Kenya->Sweden	5511
+Kenya->Switzerland	7778
+Kenya->Thailand	9177
+Kenya->Turkey	8033
+Kenya->UAE	11718
+Kenya->UK	9441
+Kenya->USA	6305
+Kenya->Ukraine	8329
+Kenya->Vietnam	5833
+Malaysia->Argentina	6068
+Malaysia->Australia	8146
+Malaysia->Austria	9678
+Malaysia->Belgium	8353
+Malaysia->Brazil	7185
+Malaysia->Canada	9050
+Malaysia->Chile	8407
+Malaysia->China	9512
+Malaysia->Colombia	8893
+Malaysia->Czechia	8739
+Malaysia->Denmark	10595
+Malaysia->Egypt	9299
+Malaysia->Finland	7029
+Malaysia->France	6784
+Malaysia->Germany	6741
+Malaysia->Ghana	9027
+Malaysia->Greece	6792
+Malaysia->Hungary	7697
+Malaysia->India	9063
+Malaysia->Indonesia	9811
+Malaysia->Iran	7559
+Malaysia->Iraq	7932
+Malaysia->Ireland	8181
+Malaysia->Israel	9261
+Malaysia->Italy	7618
+Malaysia->Japan	7343
+Malaysia->Jordan	9605
+Malaysia->Kenya	3514
+Malaysia->Mexico	9633
+Malaysia->Netherlands	7452
+Malaysia->New Zealand	8652
+Malaysia->Nigeria	6672
+Malaysia->Norway	5890
+Malaysia->Oman	11429
+Malaysia->Peru	5524
+Malaysia->Philippines	7827
+Malaysia->Poland	8165
+Malaysia->Portugal	10126
+Malaysia->Qatar	5537
+Malaysia->Romania	9020
+Malaysia->Russia	9494
+Malaysia->Saudi Arabia	9604
+Malaysia->Singapore	10676
+Malaysia->South Africa	5705
+Malaysia->South Korea	8591
+Malaysia->Spain	7288
+Malaysia->Sweden	9522
+Malaysia->Switzerland	9786
+Malaysia->Thailand	5336
+Malaysia->Turkey	10817
+Malaysia->UAE	7089
+Malaysia->UK	8893
+Malaysia->USA	6996
+Malaysia->Ukraine	7228
+Malaysia->Vietnam	8199
+Mexico->Argentina	7848
+Mexico->Australia	7482
+Mexico->Austria	9098
+Mexico->Belgium	8184
+Mexico->Brazil	6878
+Mexico->Canada	5292
+Mexico->Chile	7510
+Mexico->China	10572
+Mexico->Colombia	9133
+Mexico->Czechia	6206
+Mexico->Denmark	9420
+Mexico->Egypt	6390
+Mexico->Finland	8128
+Mexico->France	8790
+Mexico->Germany	7639
+Mexico->Ghana	5757
+Mexico->Greece	7392
+Mexico->Hungary	5649
+Mexico->India	7592
+Mexico->Indonesia	8373
+Mexico->Iran	5957
+Mexico->Iraq	8302
+Mexico->Ireland	8484
+Mexico->Israel	6931
+Mexico->Italy	5332
+Mexico->Japan	11077
+Mexico->Jordan	9274
+Mexico->Kenya	9746
+Mexico->Malaysia	5732
+Mexico->Netherlands	5599
+Mexico->New Zealand	5876
+Mexico->Nigeria	8729
+Mexico->Norway	7823
+Mexico->Oman	6401
+Mexico->Peru	10335
+Mexico->Philippines	8053
+Mexico->Poland	11349
+Mexico->Portugal	7769
+Mexico->Qatar	8312
+Mexico->Romania	11121
+Mexico->Russia	5922
+Mexico->Saudi Arabia	10304
+Mexico->Singapore	7208
+Mexico->South Africa	7333
+Mexico->South Korea	8969
+Mexico->Spain	10829
+Mexico->Sweden	5757
+Mexico->Switzerland	6116
+Mexico->Thailand	11282
+Mexico->Turkey	8758
+Mexico->UAE	10005
+Mexico->UK	8267
+Mexico->USA	7761
+Mexico->Ukraine	6560
+Mexico->Vietnam	7008
+Netherlands->Argentina	10121
+Netherlands->Australia	7448
+Netherlands->Austria	7099
+Netherlands->Belgium	6466
+Netherlands->Brazil	9735
+Netherlands->Canada	7704
+Netherlands->Chile	10912
+Netherlands->China	6784
+Netherlands->Colombia	5860
+Netherlands->Czechia	10355
+Netherlands->Denmark	7652
+Netherlands->Egypt	8912
+Netherlands->Finland	9148
+Netherlands->France	7865
+Netherlands->Germany	12283
+Netherlands->Ghana	7052
+Netherlands->Greece	7067
+Netherlands->Hungary	9456
+Netherlands->India	7506
+Netherlands->Indonesia	6908
+Netherlands->Iran	9128
+Netherlands->Iraq	10171
+Netherlands->Ireland	9841
+Netherlands->Israel	6748
+Netherlands->Italy	6552
+Netherlands->Japan	9691
+Netherlands->Jordan	5863
+Netherlands->Kenya	5251
+Netherlands->Malaysia	8264
+Netherlands->Mexico	10622
+Netherlands->New Zealand	7663
+Netherlands->Nigeria	11176
+Netherlands->Norway	6675
+Netherlands->Oman	6317
+Netherlands->Peru	8653
+Netherlands->Philippines	8781
+Netherlands->Poland	9433
+Netherlands->Portugal	9251
+Netherlands->Qatar	10384
+Netherlands->Romania	8851
+Netherlands->Russia	6924
+Netherlands->Saudi Arabia	8283
+Netherlands->Singapore	9650
+Netherlands->South Africa	7720
+Netherlands->South Korea	9448
+Netherlands->Spain	10313
+Netherlands->Sweden	10780
+Netherlands->Switzerland	7291
+Netherlands->Thailand	8164
+Netherlands->Turkey	10497
+Netherlands->UAE	5883
+Netherlands->UK	10421
+Netherlands->USA	6746
+Netherlands->Ukraine	6484
+Netherlands->Vietnam	10073
+New Zealand->Argentina	6834
+New Zealand->Australia	9920
+New Zealand->Austria	3874
+New Zealand->Belgium	7629
+New Zealand->Brazil	4347
+New Zealand->Canada	7757
+New Zealand->Chile	9841
+New Zealand->China	5474
+New Zealand->Colombia	7819
+New Zealand->Czechia	8450
+New Zealand->Denmark	5846
+New Zealand->Egypt	9258
+New Zealand->Finland	9950
+New Zealand->France	7064
+New Zealand->Germany	7242
+New Zealand->Ghana	6442
+New Zealand->Greece	8645
+New Zealand->Hungary	7759
+New Zealand->India	7572
+New Zealand->Indonesia	5412
+New Zealand->Iran	8209
+New Zealand->Iraq	9331
+New Zealand->Ireland	9963
+New Zealand->Israel	10272
+New Zealand->Italy	9919
+New Zealand->Japan	9483
+New Zealand->Jordan	7895
+New Zealand->Kenya	7594
+New Zealand->Malaysia	8467
+New Zealand->Mexico	8032
+New Zealand->Netherlands	7510
+New Zealand->Nigeria	9606
+New Zealand->Norway	8020
+New Zealand->Oman	5866
+New Zealand->Peru	5693
+New Zealand->Philippines	6103
+New Zealand->Poland	7840
+New Zealand->Portugal	8356
+New Zealand->Qatar	5746
+New Zealand->Romania	7477
+New Zealand->Russia	9716
+New Zealand->Saudi Arabia	7361
+New Zealand->Singapore	5341
+New Zealand->South Africa	6884
+New Zealand->South Korea	9679
+New Zealand->Spain	6140
+New Zealand->Sweden	8080
+New Zealand->Switzerland	5738
+New Zealand->Thailand	8806
+New Zealand->Turkey	9611
+New Zealand->UAE	9503
+New Zealand->UK	8323
+New Zealand->USA	7392
+New Zealand->Ukraine	11265
+New Zealand->Vietnam	9360
+Nigeria->Argentina	7713
+Nigeria->Australia	8091
+Nigeria->Austria	11969
+Nigeria->Belgium	7562
+Nigeria->Brazil	8379
+Nigeria->Canada	6764
+Nigeria->Chile	10089
+Nigeria->China	7812
+Nigeria->Colombia	7800
+Nigeria->Czechia	5861
+Nigeria->Denmark	7346
+Nigeria->Egypt	8318
+Nigeria->Finland	10499
+Nigeria->France	10114
+Nigeria->Germany	7804
+Nigeria->Ghana	6146
+Nigeria->Greece	8041
+Nigeria->Hungary	10359
+Nigeria->India	9479
+Nigeria->Indonesia	8279
+Nigeria->Iran	6838
+Nigeria->Iraq	9194
+Nigeria->Ireland	8256
+Nigeria->Israel	7610
+Nigeria->Italy	7535
+Nigeria->Japan	8916
+Nigeria->Jordan	9066
+Nigeria->Kenya	8832
+Nigeria->Malaysia	9343
+Nigeria->Mexico	9982
+Nigeria->Netherlands	11179
+Nigeria->New Zealand	9474
+Nigeria->Norway	6918
+Nigeria->Oman	8132
+Nigeria->Peru	7241
+Nigeria->Philippines	6827
+Nigeria->Poland	8699
+Nigeria->Portugal	8899
+Nigeria->Qatar	8527
+Nigeria->Romania	8125
+Nigeria->Russia	8037
+Nigeria->Saudi Arabia	6015
+Nigeria->Singapore	7067
+Nigeria->South Africa	7684
+Nigeria->South Korea	7868
+Nigeria->Spain	8424
+Nigeria->Sweden	5381
+Nigeria->Switzerland	7645
+Nigeria->Thailand	6262
+Nigeria->Turkey	11806
+Nigeria->UAE	8808
+Nigeria->UK	8450
+Nigeria->USA	7056
+Nigeria->Ukraine	7950
+Nigeria->Vietnam	9708
+Norway->Argentina	10093
+Norway->Australia	7334
+Norway->Austria	11383
+Norway->Belgium	8280
+Norway->Brazil	8372
+Norway->Canada	9489
+Norway->Chile	6659
+Norway->China	9523
+Norway->Colombia	7785
+Norway->Czechia	9283
+Norway->Denmark	8897
+Norway->Egypt	8992
+Norway->Finland	9000
+Norway->France	9545
+Norway->Germany	10032
+Norway->Ghana	8118
+Norway->Greece	8540
+Norway->Hungary	12361
+Norway->India	8726
+Norway->Indonesia	8781
+Norway->Iran	7149
+Norway->Iraq	8345
+Norway->Ireland	9416
+Norway->Israel	12238
+Norway->Italy	6678
+Norway->Japan	6122
+Norway->Jordan	10491
+Norway->Kenya	7198
+Norway->Malaysia	10462
+Norway->Mexico	5913
+Norway->Netherlands	8921
+Norway->New Zealand	8389
+Norway->Nigeria	6237
+Norway->Oman	10884
+Norway->Peru	9979
+Norway->Philippines	8313
+Norway->Poland	7470
+Norway->Portugal	7742
+Norway->Qatar	5413
+Norway->Romania	8551
+Norway->Russia	10266
+Norway->Saudi Arabia	8771
+Norway->Singapore	6848
+Norway->South Africa	6656
+Norway->South Korea	6264
+Norway->Spain	9791
+Norway->Sweden	6886
+Norway->Switzerland	7130
+Norway->Thailand	5436
+Norway->Turkey	8398
+Norway->UAE	9411
+Norway->UK	4761
+Norway->USA	9377
+Norway->Ukraine	6147
+Norway->Vietnam	3945
+Oman->Argentina	7859
+Oman->Australia	7913
+Oman->Austria	6316
+Oman->Belgium	6377
+Oman->Brazil	8225
+Oman->Canada	9794
+Oman->Chile	8350
+Oman->China	6821
+Oman->Colombia	10467
+Oman->Czechia	8476
+Oman->Denmark	8048
+Oman->Egypt	8438
+Oman->Finland	7262
+Oman->France	8712
+Oman->Germany	7846
+Oman->Ghana	8662
+Oman->Greece	10990
+Oman->Hungary	8881
+Oman->India	5735
+Oman->Indonesia	7521
+Oman->Iran	9870
+Oman->Iraq	8098
+Oman->Ireland	9982
+Oman->Israel	8672
+Oman->Italy	7212
+Oman->Japan	8206
+Oman->Jordan	6091
+Oman->Kenya	5460
+Oman->Malaysia	9090
+Oman->Mexico	5953
+Oman->Netherlands	10076
+Oman->New Zealand	6768
+Oman->Nigeria	7312
+Oman->Norway	5918
+Oman->Peru	5739
+Oman->Philippines	9912
+Oman->Poland	6790
+Oman->Portugal	5056
+Oman->Qatar	8356
+Oman->Romania	8811
+Oman->Russia	6397
+Oman->Saudi Arabia	8390
+Oman->Singapore	5108
+Oman->South Africa	5166
+Oman->South Korea	8938
+Oman->Spain	9385
+Oman->Sweden	7723
+Oman->Switzerland	8334
+Oman->Thailand	9320
+Oman->Turkey	8069
+Oman->UAE	8711
+Oman->UK	6180
+Oman->USA	5672
+Oman->Ukraine	11929
+Oman->Vietnam	8249
+Peru->Argentina	7461
+Peru->Australia	6859
+Peru->Austria	8512
+Peru->Belgium	6109
+Peru->Brazil	9511
+Peru->Canada	8155
+Peru->Chile	7963
+Peru->China	4407
+Peru->Colombia	8904
+Peru->Czechia	8498
+Peru->Denmark	10211
+Peru->Egypt	8627
+Peru->Finland	8546
+Peru->France	7978
+Peru->Germany	8742
+Peru->Ghana	8022
+Peru->Greece	9172
+Peru->Hungary	7426
+Peru->India	7993
+Peru->Indonesia	9516
+Peru->Iran	8196
+Peru->Iraq	7915
+Peru->Ireland	8912
+Peru->Israel	7700
+Peru->Italy	9938
+Peru->Japan	6577
+Peru->Jordan	5728
+Peru->Kenya	7482
+Peru->Malaysia	7690
+Peru->Mexico	11698
+Peru->Netherlands	7159
+Peru->New Zealand	9074
+Peru->Nigeria	7935
+Peru->Norway	5456
+Peru->Oman	6916
+Peru->Philippines	7369
+Peru->Poland	9354
+Peru->Portugal	7230
+Peru->Qatar	7807
+Peru->Romania	6365
+Peru->Russia	5813
+Peru->Saudi Arabia	9557
+Peru->Singapore	5389
+Peru->South Africa	8018
+Peru->South Korea	7497
+Peru->Spain	7527
+Peru->Sweden	6609
+Peru->Switzerland	8432
+Peru->Thailand	6138
+Peru->Turkey	6605
+Peru->UAE	11115
+Peru->UK	9563
+Peru->USA	9571
+Peru->Ukraine	6470
+Peru->Vietnam	6631
+Philippines->Argentina	7749
+Philippines->Australia	6559
+Philippines->Austria	11973
+Philippines->Belgium	5852
+Philippines->Brazil	7808
+Philippines->Canada	7561
+Philippines->Chile	6706
+Philippines->China	11347
+Philippines->Colombia	8762
+Philippines->Czechia	7787
+Philippines->Denmark	8587
+Philippines->Egypt	6006
+Philippines->Finland	10373
+Philippines->France	9340
+Philippines->Germany	7243
+Philippines->Ghana	10056
+Philippines->Greece	10669
+Philippines->Hungary	6514
+Philippines->India	7267
+Philippines->Indonesia	11196
+Philippines->Iran	8394
+Philippines->Iraq	6272
+Philippines->Ireland	4433
+Philippines->Israel	9103
+Philippines->Italy	4787
+Philippines->Japan	8994
+Philippines->Jordan	9323
+Philippines->Kenya	6968
+Philippines->Malaysia	7566
+Philippines->Mexico	8817
+Philippines->Netherlands	9065
+Philippines->New Zealand	6324
+Philippines->Nigeria	4839
+Philippines->Norway	9930
+Philippines->Oman	7521
+Philippines->Peru	9221
+Philippines->Poland	8821
+Philippines->Portugal	5784
+Philippines->Qatar	5667
+Philippines->Romania	5309
+Philippines->Russia	5652
+Philippines->Saudi Arabia	8836
+Philippines->Singapore	10312
+Philippines->South Africa	6214
+Philippines->South Korea	6770
+Philippines->Spain	8158
+Philippines->Sweden	8080
+Philippines->Switzerland	7864
+Philippines->Thailand	4987
+Philippines->Turkey	5420
+Philippines->UAE	7949
+Philippines->UK	5791
+Philippines->USA	6549
+Philippines->Ukraine	6909
+Philippines->Vietnam	6860
+Poland->Argentina	7933
+Poland->Australia	6892
+Poland->Austria	8592
+Poland->Belgium	8903
+Poland->Brazil	6705
+Poland->Canada	7446
+Poland->Chile	5616
+Poland->China	6377
+Poland->Colombia	8485
+Poland->Czechia	7045
+Poland->Denmark	6826
+Poland->Egypt	9468
+Poland->Finland	7199
+Poland->France	8912
+Poland->Germany	6010
+Poland->Ghana	7908
+Poland->Greece	5391
+Poland->Hungary	5839
+Poland->India	7425
+Poland->Indonesia	5111
+Poland->Iran	9920
+Poland->Iraq	7214
+Poland->Ireland	6155
+Poland->Israel	7801
+Poland->Italy	7261
+Poland->Japan	8127
+Poland->Jordan	7285
+Poland->Kenya	8418
+Poland->Malaysia	7939
+Poland->Mexico	6591
+Poland->Netherlands	7146
+Poland->New Zealand	10010
+Poland->Nigeria	11178
+Poland->Norway	8867
+Poland->Oman	9423
+Poland->Peru	8355
+Poland->Philippines	11590
+Poland->Portugal	6468
+Poland->Qatar	13605
+Poland->Romania	8263
+Poland->Russia	7104
+Poland->Saudi Arabia	6632
+Poland->Singapore	6764
+Poland->South Africa	9390
+Poland->South Korea	7568
+Poland->Spain	8165
+Poland->Sweden	9264
+Poland->Switzerland	10805
+Poland->Thailand	9126
+Poland->Turkey	9357
+Poland->UAE	7773
+Poland->UK	6011
+Poland->USA	7240
+Poland->Ukraine	6315
+Poland->Vietnam	10006
+Portugal->Argentina	9456
+Portugal->Australia	8178
+Portugal->Austria	6891
+Portugal->Belgium	6739
+Portugal->Brazil	7115
+Portugal->Canada	7800
+Portugal->Chile	7834
+Portugal->China	3792
+Portugal->Colombia	8866
+Portugal->Czechia	7534
+Portugal->Denmark	8698
+Portugal->Egypt	7505
+Portugal->Finland	7357
+Portugal->France	11807
+Portugal->Germany	4909
+Portugal->Ghana	8551
+Portugal->Greece	8674
+Portugal->Hungary	8470
+Portugal->India	8408
+Portugal->Indonesia	8319
+Portugal->Iran	10091
+Portugal->Iraq	9829
+Portugal->Ireland	6821
+Portugal->Israel	11583
+Portugal->Italy	7544
+Portugal->Japan	9512
+Portugal->Jordan	7131
+Portugal->Kenya	7970
+Portugal->Malaysia	8891
+Portugal->Mexico	7699
+Portugal->Netherlands	7931
+Portugal->New Zealand	9501
+Portugal->Nigeria	8211
+Portugal->Norway	8572
+Portugal->Oman	9674
+Portugal->Peru	6328
+Portugal->Philippines	6520
+Portugal->Poland	8706
+Portugal->Qatar	9570
+Portugal->Romania	6720
+Portugal->Russia	6162
+Portugal->Saudi Arabia	10104
+Portugal->Singapore	9968
+Portugal->South Africa	8663
+Portugal->South Korea	8856
+Portugal->Spain	9520
+Portugal->Sweden	8477
+Portugal->Switzerland	7792
+Portugal->Thailand	10383
+Portugal->Turkey	9418
+Portugal->UAE	7072
+Portugal->UK	9068
+Portugal->USA	5545
+Portugal->Ukraine	10413
+Portugal->Vietnam	7062
+Qatar->Argentina	4283
+Qatar->Australia	7364
+Qatar->Austria	8388
+Qatar->Belgium	7555
+Qatar->Brazil	10683
+Qatar->Canada	6800
+Qatar->Chile	10453
+Qatar->China	7950
+Qatar->Colombia	10324
+Qatar->Czechia	7162
+Qatar->Denmark	6619
+Qatar->Egypt	9928
+Qatar->Finland	10981
+Qatar->France	7752
+Qatar->Germany	10461
+Qatar->Ghana	8098
+Qatar->Greece	8267
+Qatar->Hungary	7889
+Qatar->India	6616
+Qatar->Indonesia	9176
+Qatar->Iran	7252
+Qatar->Iraq	7118
+Qatar->Ireland	12919
+Qatar->Israel	12287
+Qatar->Italy	7479
+Qatar->Japan	7580
+Qatar->Jordan	10413
+Qatar->Kenya	8918
+Qatar->Malaysia	8972
+Qatar->Mexico	10989
+Qatar->Netherlands	9267
+Qatar->New Zealand	8671
+Qatar->Nigeria	9530
+Qatar->Norway	10388
+Qatar->Oman	7732
+Qatar->Peru	10807
+Qatar->Philippines	7138
+Qatar->Poland	9878
+Qatar->Portugal	5699
+Qatar->Romania	9120
+Qatar->Russia	5427
+Qatar->Saudi Arabia	8642
+Qatar->Singapore	7192
+Qatar->South Africa	9793
+Qatar->South Korea	7105
+Qatar->Spain	6765
+Qatar->Sweden	8625
+Qatar->Switzerland	5346
+Qatar->Thailand	5550
+Qatar->Turkey	5322
+Qatar->UAE	6478
+Qatar->UK	7986
+Qatar->USA	6117
+Qatar->Ukraine	5819
+Qatar->Vietnam	6169
+Romania->Argentina	6670
+Romania->Australia	8160
+Romania->Austria	6063
+Romania->Belgium	7640
+Romania->Brazil	7764
+Romania->Canada	7753
+Romania->Chile	9145
+Romania->China	9399
+Romania->Colombia	8810
+Romania->Czechia	8622
+Romania->Denmark	7575
+Romania->Egypt	9688
+Romania->Finland	6678
+Romania->France	7078
+Romania->Germany	7274
+Romania->Ghana	10350
+Romania->Greece	8089
+Romania->Hungary	9264
+Romania->India	6253
+Romania->Indonesia	10412
+Romania->Iran	5002
+Romania->Iraq	9717
+Romania->Ireland	7691
+Romania->Israel	8299
+Romania->Italy	7374
+Romania->Japan	7194
+Romania->Jordan	8617
+Romania->Kenya	11995
+Romania->Malaysia	8567
+Romania->Mexico	8933
+Romania->Netherlands	5494
+Romania->New Zealand	6585
+Romania->Nigeria	8025
+Romania->Norway	7783
+Romania->Oman	5675
+Romania->Peru	6213
+Romania->Philippines	8746
+Romania->Poland	8938
+Romania->Portugal	7916
+Romania->Qatar	8866
+Romania->Russia	6570
+Romania->Saudi Arabia	7495
+Romania->Singapore	11517
+Romania->South Africa	10627
+Romania->South Korea	6351
+Romania->Spain	12836
+Romania->Sweden	6756
+Romania->Switzerland	7833
+Romania->Thailand	7573
+Romania->Turkey	8696
+Romania->UAE	6000
+Romania->UK	8984
+Romania->USA	10706
+Romania->Ukraine	9030
+Romania->Vietnam	9776
+Russia->Argentina	9941
+Russia->Australia	5419
+Russia->Austria	5355
+Russia->Belgium	8516
+Russia->Brazil	7549
+Russia->Canada	7473
+Russia->Chile	6675
+Russia->China	8111
+Russia->Colombia	7226
+Russia->Czechia	4684
+Russia->Denmark	12899
+Russia->Egypt	7266
+Russia->Finland	8330
+Russia->France	8603
+Russia->Germany	7044
+Russia->Ghana	9114
+Russia->Greece	8426
+Russia->Hungary	6462
+Russia->India	7958
+Russia->Indonesia	9588
+Russia->Iran	8841
+Russia->Iraq	6413
+Russia->Ireland	5251
+Russia->Israel	10409
+Russia->Italy	7346
+Russia->Japan	6167
+Russia->Jordan	8975
+Russia->Kenya	7729
+Russia->Malaysia	8331
+Russia->Mexico	5299
+Russia->Netherlands	6715
+Russia->New Zealand	8375
+Russia->Nigeria	4956
+Russia->Norway	6827
+Russia->Oman	9669
+Russia->Peru	7369
+Russia->Philippines	10091
+Russia->Poland	6967
+Russia->Portugal	9527
+Russia->Qatar	10654
+Russia->Romania	6470
+Russia->Saudi Arabia	6206
+Russia->Singapore	6404
+Russia->South Africa	8805
+Russia->South Korea	9578
+Russia->Spain	7175
+Russia->Sweden	5148
+Russia->Switzerland	7804
+Russia->Thailand	7417
+Russia->Turkey	7055
+Russia->UAE	8046
+Russia->UK	6934
+Russia->USA	7877
+Russia->Ukraine	7489
+Russia->Vietnam	8962
+Saudi Arabia->Argentina	7640
+Saudi Arabia->Australia	7109
+Saudi Arabia->Austria	6932
+Saudi Arabia->Belgium	8242
+Saudi Arabia->Brazil	8564
+Saudi Arabia->Canada	6670
+Saudi Arabia->Chile	10299
+Saudi Arabia->China	10501
+Saudi Arabia->Colombia	7703
+Saudi Arabia->Czechia	9136
+Saudi Arabia->Denmark	8365
+Saudi Arabia->Egypt	7311
+Saudi Arabia->Finland	5985
+Saudi Arabia->France	6590
+Saudi Arabia->Germany	10484
+Saudi Arabia->Ghana	6051
+Saudi Arabia->Greece	6230
+Saudi Arabia->Hungary	7304
+Saudi Arabia->India	7839
+Saudi Arabia->Indonesia	8201
+Saudi Arabia->Iran	12422
+Saudi Arabia->Iraq	7886
+Saudi Arabia->Ireland	9751
+Saudi Arabia->Israel	7083
+Saudi Arabia->Italy	5602
+Saudi Arabia->Japan	8718
+Saudi Arabia->Jordan	5822
+Saudi Arabia->Kenya	10344
+Saudi Arabia->Malaysia	11942
+Saudi Arabia->Mexico	5906
+Saudi Arabia->Netherlands	8054
+Saudi Arabia->New Zealand	8008
+Saudi Arabia->Nigeria	7603
+Saudi Arabia->Norway	7265
+Saudi Arabia->Oman	6432
+Saudi Arabia->Peru	6777
+Saudi Arabia->Philippines	8873
+Saudi Arabia->Poland	7069
+Saudi Arabia->Portugal	9062
+Saudi Arabia->Qatar	7009
+Saudi Arabia->Romania	10470
+Saudi Arabia->Russia	9865
+Saudi Arabia->Singapore	9671
+Saudi Arabia->South Africa	11247
+Saudi Arabia->South Korea	7786
+Saudi Arabia->Spain	7395
+Saudi Arabia->Sweden	11022
+Saudi Arabia->Switzerland	6427
+Saudi Arabia->Thailand	5986
+Saudi Arabia->Turkey	6544
+Saudi Arabia->UAE	8631
+Saudi Arabia->UK	5866
+Saudi Arabia->USA	11249
+Saudi Arabia->Ukraine	7931
+Saudi Arabia->Vietnam	5590
+Singapore->Argentina	7058
+Singapore->Australia	8237
+Singapore->Austria	8646
+Singapore->Belgium	7178
+Singapore->Brazil	4474
+Singapore->Canada	7237
+Singapore->Chile	7874
+Singapore->China	6612
+Singapore->Colombia	4690
+Singapore->Czechia	9097
+Singapore->Denmark	10692
+Singapore->Egypt	6168
+Singapore->Finland	7419
+Singapore->France	9199
+Singapore->Germany	8803
+Singapore->Ghana	11200
+Singapore->Greece	6788
+Singapore->Hungary	10709
+Singapore->India	8519
+Singapore->Indonesia	6504
+Singapore->Iran	11235
+Singapore->Iraq	8208
+Singapore->Ireland	6022
+Singapore->Israel	8200
+Singapore->Italy	8336
+Singapore->Japan	9683
+Singapore->Jordan	8054
+Singapore->Kenya	8649
+Singapore->Malaysia	6341
+Singapore->Mexico	5915
+Singapore->Netherlands	9362
+Singapore->New Zealand	7322
+Singapore->Nigeria	6480
+Singapore->Norway	6386
+Singapore->Oman	8846
+Singapore->Peru	11412
+Singapore->Philippines	8846
+Singapore->Poland	10640
+Singapore->Portugal	7890
+Singapore->Qatar	10680
+Singapore->Romania	6519
+Singapore->Russia	7576
+Singapore->Saudi Arabia	9430
+Singapore->South Africa	7149
+Singapore->South Korea	8669
+Singapore->Spain	8212
+Singapore->Sweden	6824
+Singapore->Switzerland	7291
+Singapore->Thailand	8018
+Singapore->Turkey	9109
+Singapore->UAE	9657
+Singapore->UK	7619
+Singapore->USA	9435
+Singapore->Ukraine	8176
+Singapore->Vietnam	7558
+South Africa->Argentina	4098
+South Africa->Australia	10030
+South Africa->Austria	6420
+South Africa->Belgium	4692
+South Africa->Brazil	7221
+South Africa->Canada	9200
+South Africa->Chile	9462
+South Africa->China	8797
+South Africa->Colombia	10904
+South Africa->Czechia	10416
+South Africa->Denmark	8373
+South Africa->Egypt	9565
+South Africa->Finland	8903
+South Africa->France	9192
+South Africa->Germany	8506
+South Africa->Ghana	7645
+South Africa->Greece	5999
+South Africa->Hungary	8813
+South Africa->India	11683
+South Africa->Indonesia	7672
+South Africa->Iran	5622
+South Africa->Iraq	5231
+South Africa->Ireland	10715
+South Africa->Israel	10720
+South Africa->Italy	9702
+South Africa->Japan	4087
+South Africa->Jordan	8050
+South Africa->Kenya	9282
+South Africa->Malaysia	8812
+South Africa->Mexico	9808
+South Africa->Netherlands	7065
+South Africa->New Zealand	7830
+South Africa->Nigeria	9408
+South Africa->Norway	6302
+South Africa->Oman	9620
+South Africa->Peru	7951
+South Africa->Philippines	7631
+South Africa->Poland	7972
+South Africa->Portugal	9159
+South Africa->Qatar	6109
+South Africa->Romania	5507
+South Africa->Russia	6489
+South Africa->Saudi Arabia	8431
+South Africa->Singapore	7553
+South Africa->South Korea	8615
+South Africa->Spain	9716
+South Africa->Sweden	6746
+South Africa->Switzerland	8979
+South Africa->Thailand	8918
+South Africa->Turkey	7883
+South Africa->UAE	10684
+South Africa->UK	5061
+South Africa->USA	9621
+South Africa->Ukraine	10742
+South Africa->Vietnam	9055
+South Korea->Argentina	7986
+South Korea->Australia	9255
+South Korea->Austria	7670
+South Korea->Belgium	11739
+South Korea->Brazil	3898
+South Korea->Canada	7143
+South Korea->Chile	7298
+South Korea->China	8551
+South Korea->Colombia	6833
+South Korea->Czechia	9702
+South Korea->Denmark	6096
+South Korea->Egypt	7129
+South Korea->Finland	9592
+South Korea->France	8940
+South Korea->Germany	9667
+South Korea->Ghana	6382
+South Korea->Greece	5614
+South Korea->Hungary	11193
+South Korea->India	10442
+South Korea->Indonesia	5869
+South Korea->Iran	9376
+South Korea->Iraq	6648
+South Korea->Ireland	7709
+South Korea->Israel	6517
+South Korea->Italy	6636
+South Korea->Japan	7177
+South Korea->Jordan	11038
+South Korea->Kenya	9148
+South Korea->Malaysia	9015
+South Korea->Mexico	9983
+South Korea->Netherlands	6575
+South Korea->New Zealand	11666
+South Korea->Nigeria	7206
+South Korea->Norway	5936
+South Korea->Oman	12269
+South Korea->Peru	8369
+South Korea->Philippines	7117
+South Korea->Poland	7510
+South Korea->Portugal	8691
+South Korea->Qatar	6613
+South Korea->Romania	11125
+South Korea->Russia	11735
+South Korea->Saudi Arabia	7168
+South Korea->Singapore	9117
+South Korea->South Africa	6959
+South Korea->Spain	5785
+South Korea->Sweden	10233
+South Korea->Switzerland	7576
+South Korea->Thailand	7050
+South Korea->Turkey	8018
+South Korea->UAE	8794
+South Korea->UK	7269
+South Korea->USA	8918
+South Korea->Ukraine	8710
+South Korea->Vietnam	7536
+Spain->Argentina	8890
+Spain->Australia	7512
+Spain->Austria	6899
+Spain->Belgium	6926
+Spain->Brazil	10492
+Spain->Canada	7321
+Spain->Chile	7014
+Spain->China	7703
+Spain->Colombia	6167
+Spain->Czechia	6783
+Spain->Denmark	10225
+Spain->Egypt	8766
+Spain->Finland	5398
+Spain->France	8884
+Spain->Germany	7902
+Spain->Ghana	7574
+Spain->Greece	6394
+Spain->Hungary	6721
+Spain->India	7429
+Spain->Indonesia	8395
+Spain->Iran	8120
+Spain->Iraq	8044
+Spain->Ireland	9803
+Spain->Israel	9445
+Spain->Italy	8006
+Spain->Japan	6009
+Spain->Jordan	6165
+Spain->Kenya	8988
+Spain->Malaysia	9586
+Spain->Mexico	6873
+Spain->Netherlands	4279
+Spain->New Zealand	7790
+Spain->Nigeria	5487
+Spain->Norway	9282
+Spain->Oman	9558
+Spain->Peru	8708
+Spain->Philippines	9286
+Spain->Poland	6477
+Spain->Portugal	8341
+Spain->Qatar	6274
+Spain->Romania	6962
+Spain->Russia	7537
+Spain->Saudi Arabia	7229
+Spain->Singapore	6365
+Spain->South Africa	9799
+Spain->South Korea	5973
+Spain->Sweden	7269
+Spain->Switzerland	6653
+Spain->Thailand	8316
+Spain->Turkey	7359
+Spain->UAE	7428
+Spain->UK	11176
+Spain->USA	7890
+Spain->Ukraine	7150
+Spain->Vietnam	7579
+Sweden->Argentina	7545
+Sweden->Australia	6752
+Sweden->Austria	10841
+Sweden->Belgium	9033
+Sweden->Brazil	10681
+Sweden->Canada	5013
+Sweden->Chile	9601
+Sweden->China	8031
+Sweden->Colombia	9836
+Sweden->Czechia	10467
+Sweden->Denmark	9268
+Sweden->Egypt	7397
+Sweden->Finland	7002
+Sweden->France	7678
+Sweden->Germany	6926
+Sweden->Ghana	10737
+Sweden->Greece	11122
+Sweden->Hungary	8474
+Sweden->India	6056
+Sweden->Indonesia	7538
+Sweden->Iran	9211
+Sweden->Iraq	5462
+Sweden->Ireland	11062
+Sweden->Israel	6572
+Sweden->Italy	8560
+Sweden->Japan	4814
+Sweden->Jordan	7507
+Sweden->Kenya	6621
+Sweden->Malaysia	5335
+Sweden->Mexico	6381
+Sweden->Netherlands	9905
+Sweden->New Zealand	7851
+Sweden->Nigeria	6163
+Sweden->Norway	7903
+Sweden->Oman	5443
+Sweden->Peru	9642
+Sweden->Philippines	7052
+Sweden->Poland	7832
+Sweden->Portugal	6142
+Sweden->Qatar	8416
+Sweden->Romania	8979
+Sweden->Russia	7441
+Sweden->Saudi Arabia	8790
+Sweden->Singapore	11422
+Sweden->South Africa	9885
+Sweden->South Korea	10784
+Sweden->Spain	9217
+Sweden->Switzerland	8202
+Sweden->Thailand	8953
+Sweden->Turkey	6898
+Sweden->UAE	7205
+Sweden->UK	7672
+Sweden->USA	6873
+Sweden->Ukraine	7816
+Sweden->Vietnam	6010
+Switzerland->Argentina	7898
+Switzerland->Australia	9174
+Switzerland->Austria	6240
+Switzerland->Belgium	9837
+Switzerland->Brazil	10729
+Switzerland->Canada	8659
+Switzerland->Chile	6778
+Switzerland->China	8601
+Switzerland->Colombia	10169
+Switzerland->Czechia	7513
+Switzerland->Denmark	8399
+Switzerland->Egypt	11166
+Switzerland->Finland	5165
+Switzerland->France	6068
+Switzerland->Germany	5929
+Switzerland->Ghana	10827
+Switzerland->Greece	7517
+Switzerland->Hungary	7433
+Switzerland->India	7554
+Switzerland->Indonesia	9526
+Switzerland->Iran	10663
+Switzerland->Iraq	8861
+Switzerland->Ireland	8348
+Switzerland->Israel	9930
+Switzerland->Italy	6891
+Switzerland->Japan	7244
+Switzerland->Jordan	8521
+Switzerland->Kenya	9300
+Switzerland->Malaysia	12489
+Switzerland->Mexico	8111
+Switzerland->Netherlands	9624
+Switzerland->New Zealand	7791
+Switzerland->Nigeria	8545
+Switzerland->Norway	9404
+Switzerland->Oman	7699
+Switzerland->Peru	7952
+Switzerland->Philippines	6282
+Switzerland->Poland	9124
+Switzerland->Portugal	7363
+Switzerland->Qatar	9301
+Switzerland->Romania	10275
+Switzerland->Russia	9879
+Switzerland->Saudi Arabia	7048
+Switzerland->Singapore	7998
+Switzerland->South Africa	7221
+Switzerland->South Korea	9847
+Switzerland->Spain	10181
+Switzerland->Sweden	7326
+Switzerland->Thailand	5027
+Switzerland->Turkey	9264
+Switzerland->UAE	9304
+Switzerland->UK	8145
+Switzerland->USA	11312
+Switzerland->Ukraine	6538
+Switzerland->Vietnam	12491
+Thailand->Argentina	6401
+Thailand->Australia	6808
+Thailand->Austria	6263
+Thailand->Belgium	5480
+Thailand->Brazil	7365
+Thailand->Canada	7348
+Thailand->Chile	8387
+Thailand->China	8889
+Thailand->Colombia	6805
+Thailand->Czechia	5879
+Thailand->Denmark	9955
+Thailand->Egypt	7899
+Thailand->Finland	8476
+Thailand->France	6781
+Thailand->Germany	5291
+Thailand->Ghana	9331
+Thailand->Greece	4517
+Thailand->Hungary	10743
+Thailand->India	8428
+Thailand->Indonesia	7990
+Thailand->Iran	10533
+Thailand->Iraq	7047
+Thailand->Ireland	7086
+Thailand->Israel	9161
+Thailand->Italy	8763
+Thailand->Japan	8199
+Thailand->Jordan	9318
+Thailand->Kenya	7234
+Thailand->Malaysia	7696
+Thailand->Mexico	6686
+Thailand->Netherlands	7174
+Thailand->New Zealand	8482
+Thailand->Nigeria	5609
+Thailand->Norway	12135
+Thailand->Oman	7239
+Thailand->Peru	9042
+Thailand->Philippines	8444
+Thailand->Poland	6749
+Thailand->Portugal	11930
+Thailand->Qatar	10757
+Thailand->Romania	9638
+Thailand->Russia	6947
+Thailand->Saudi Arabia	5778
+Thailand->Singapore	10282
+Thailand->South Africa	8915
+Thailand->South Korea	10776
+Thailand->Spain	9202
+Thailand->Sweden	9680
+Thailand->Switzerland	8241
+Thailand->Turkey	7132
+Thailand->UAE	6033
+Thailand->UK	10972
+Thailand->USA	10152
+Thailand->Ukraine	7843
+Thailand->Vietnam	8177
+Turkey->Argentina	8992
+Turkey->Australia	7829
+Turkey->Austria	12303
+Turkey->Belgium	7456
+Turkey->Brazil	6945
+Turkey->Canada	8567
+Turkey->Chile	4845
+Turkey->China	11365
+Turkey->Colombia	11034
+Turkey->Czechia	7840
+Turkey->Denmark	6260
+Turkey->Egypt	8250
+Turkey->Finland	6380
+Turkey->France	7681
+Turkey->Germany	10381
+Turkey->Ghana	10088
+Turkey->Greece	9725
+Turkey->Hungary	4739
+Turkey->India	9141
+Turkey->Indonesia	8897
+Turkey->Iran	8376
+Turkey->Iraq	8449
+Turkey->Ireland	11068
+Turkey->Israel	7269
+Turkey->Italy	10494
+Turkey->Japan	9236
+Turkey->Jordan	11399
+Turkey->Kenya	7952
+Turkey->Malaysia	8733
+Turkey->Mexico	5276
+Turkey->Netherlands	6956
+Turkey->New Zealand	8017
+Turkey->Nigeria	10456
+Turkey->Norway	6864
+Turkey->Oman	6887
+Turkey->Peru	9071
+Turkey->Philippines	8749
+Turkey->Poland	5917
+Turkey->Portugal	9175
+Turkey->Qatar	8124
+Turkey->Romania	5159
+Turkey->Russia	9268
+Turkey->Saudi Arabia	5789
+Turkey->Singapore	9877
+Turkey->South Africa	6745
+Turkey->South Korea	5161
+Turkey->Spain	7703
+Turkey->Sweden	5013
+Turkey->Switzerland	7109
+Turkey->Thailand	11576
+Turkey->UAE	7244
+Turkey->UK	8923
+Turkey->USA	7051
+Turkey->Ukraine	8587
+Turkey->Vietnam	7457
+UAE->Argentina	8420
+UAE->Australia	11153
+UAE->Austria	4495
+UAE->Belgium	7409
+UAE->Brazil	6324
+UAE->Canada	8773
+UAE->Chile	11189
+UAE->China	6972
+UAE->Colombia	7839
+UAE->Czechia	9334
+UAE->Denmark	5701
+UAE->Egypt	8227
+UAE->Finland	7960
+UAE->France	10025
+UAE->Germany	8180
+UAE->Ghana	9348
+UAE->Greece	10672
+UAE->Hungary	8937
+UAE->India	7000
+UAE->Indonesia	7995
+UAE->Iran	7420
+UAE->Iraq	7862
+UAE->Ireland	9708
+UAE->Israel	6234
+UAE->Italy	6572
+UAE->Japan	7671
+UAE->Jordan	10816
+UAE->Kenya	7230
+UAE->Malaysia	7231
+UAE->Mexico	5912
+UAE->Netherlands	7759
+UAE->New Zealand	7102
+UAE->Nigeria	8261
+UAE->Norway	7142
+UAE->Oman	10780
+UAE->Peru	8559
+UAE->Philippines	6234
+UAE->Poland	6996
+UAE->Portugal	7623
+UAE->Qatar	8032
+UAE->Romania	8982
+UAE->Russia	8067
+UAE->Saudi Arabia	11590
+UAE->Singapore	7468
+UAE->South Africa	10501
+UAE->South Korea	6187
+UAE->Spain	7827
+UAE->Sweden	9118
+UAE->Switzerland	8834
+UAE->Thailand	9277
+UAE->Turkey	8849
+UAE->UK	6968
+UAE->USA	9532
+UAE->Ukraine	5777
+UAE->Vietnam	7463
+UK->Argentina	10994
+UK->Australia	8088
+UK->Austria	11292
+UK->Belgium	5780
+UK->Brazil	8822
+UK->Canada	7877
+UK->Chile	8263
+UK->China	7724
+UK->Colombia	8071
+UK->Czechia	7702
+UK->Denmark	9220
+UK->Egypt	10405
+UK->Finland	9539
+UK->France	5756
+UK->Germany	10491
+UK->Ghana	11255
+UK->Greece	7093
+UK->Hungary	11274
+UK->India	7347
+UK->Indonesia	7201
+UK->Iran	8117
+UK->Iraq	12476
+UK->Ireland	7171
+UK->Israel	6025
+UK->Italy	8540
+UK->Japan	7907
+UK->Jordan	7921
+UK->Kenya	6580
+UK->Malaysia	7949
+UK->Mexico	7319
+UK->Netherlands	9895
+UK->New Zealand	6925
+UK->Nigeria	7329
+UK->Norway	6936
+UK->Oman	7642
+UK->Peru	8961
+UK->Philippines	10687
+UK->Poland	11841
+UK->Portugal	10712
+UK->Qatar	4987
+UK->Romania	7073
+UK->Russia	10059
+UK->Saudi Arabia	6473
+UK->Singapore	6632
+UK->South Africa	4722
+UK->South Korea	8138
+UK->Spain	10804
+UK->Sweden	7954
+UK->Switzerland	6863
+UK->Thailand	6055
+UK->Turkey	7360
+UK->UAE	8360
+UK->USA	11045
+UK->Ukraine	10204
+UK->Vietnam	8203
+USA->Argentina	6921
+USA->Australia	9086
+USA->Austria	6753
+USA->Belgium	6329
+USA->Brazil	5540
+USA->Canada	10064
+USA->Chile	8723
+USA->China	11237
+USA->Colombia	8392
+USA->Czechia	8637
+USA->Denmark	6552
+USA->Egypt	8630
+USA->Finland	8785
+USA->France	7344
+USA->Germany	9792
+USA->Ghana	9197
+USA->Greece	8873
+USA->Hungary	7997
+USA->India	8115
+USA->Indonesia	8991
+USA->Iran	5633
+USA->Iraq	8547
+USA->Ireland	10481
+USA->Israel	9036
+USA->Italy	8666
+USA->Japan	8463
+USA->Jordan	6326
+USA->Kenya	9810
+USA->Malaysia	9016
+USA->Mexico	6976
+USA->Netherlands	10182
+USA->New Zealand	7781
+USA->Nigeria	6082
+USA->Norway	8228
+USA->Oman	9693
+USA->Peru	10194
+USA->Philippines	11721
+USA->Poland	6508
+USA->Portugal	8370
+USA->Qatar	9384
+USA->Romania	8385
+USA->Russia	6570
+USA->Saudi Arabia	5636
+USA->Singapore	8329
+USA->South Africa	6279
+USA->South Korea	8394
+USA->Spain	8951
+USA->Sweden	9040
+USA->Switzerland	9483
+USA->Thailand	6794
+USA->Turkey	6126
+USA->UAE	7730
+USA->UK	8455
+USA->Ukraine	8764
+USA->Vietnam	9730
+Ukraine->Argentina	7996
+Ukraine->Australia	10940
+Ukraine->Austria	9451
+Ukraine->Belgium	5860
+Ukraine->Brazil	9586
+Ukraine->Canada	9517
+Ukraine->Chile	6566
+Ukraine->China	5447
+Ukraine->Colombia	10852
+Ukraine->Czechia	7774
+Ukraine->Denmark	10481
+Ukraine->Egypt	6896
+Ukraine->Finland	10699
+Ukraine->France	7926
+Ukraine->Germany	7651
+Ukraine->Ghana	9209
+Ukraine->Greece	10633
+Ukraine->Hungary	9199
+Ukraine->India	8041
+Ukraine->Indonesia	7394
+Ukraine->Iran	8728
+Ukraine->Iraq	7916
+Ukraine->Ireland	5551
+Ukraine->Israel	6217
+Ukraine->Italy	10056
+Ukraine->Japan	8713
+Ukraine->Jordan	8645
+Ukraine->Kenya	6637
+Ukraine->Malaysia	6485
+Ukraine->Mexico	6083
+Ukraine->Netherlands	10438
+Ukraine->New Zealand	7097
+Ukraine->Nigeria	8598
+Ukraine->Norway	8979
+Ukraine->Oman	8008
+Ukraine->Peru	8262
+Ukraine->Philippines	8357
+Ukraine->Poland	7437
+Ukraine->Portugal	8333
+Ukraine->Qatar	10340
+Ukraine->Romania	10155
+Ukraine->Russia	8782
+Ukraine->Saudi Arabia	8778
+Ukraine->Singapore	8970
+Ukraine->South Africa	7706
+Ukraine->South Korea	5395
+Ukraine->Spain	7049
+Ukraine->Sweden	8921
+Ukraine->Switzerland	8030
+Ukraine->Thailand	5928
+Ukraine->Turkey	6497
+Ukraine->UAE	8542
+Ukraine->UK	7510
+Ukraine->USA	8110
+Ukraine->Vietnam	9071
+Vietnam->Argentina	10285
+Vietnam->Australia	7917
+Vietnam->Austria	5735
+Vietnam->Belgium	7130
+Vietnam->Brazil	6930
+Vietnam->Canada	8658
+Vietnam->Chile	7154
+Vietnam->China	8650
+Vietnam->Colombia	8490
+Vietnam->Czechia	7908
+Vietnam->Denmark	8794
+Vietnam->Egypt	7754
+Vietnam->Finland	8098
+Vietnam->France	9770
+Vietnam->Germany	8584
+Vietnam->Ghana	9887
+Vietnam->Greece	8509
+Vietnam->Hungary	10226
+Vietnam->India	5444
+Vietnam->Indonesia	8034
+Vietnam->Iran	7017
+Vietnam->Iraq	8850
+Vietnam->Ireland	10369
+Vietnam->Israel	8634
+Vietnam->Italy	7207
+Vietnam->Japan	7869
+Vietnam->Jordan	7621
+Vietnam->Kenya	9820
+Vietnam->Malaysia	10028
+Vietnam->Mexico	8512
+Vietnam->Netherlands	10548
+Vietnam->New Zealand	9587
+Vietnam->Nigeria	7316
+Vietnam->Norway	5995
+Vietnam->Oman	8193
+Vietnam->Peru	10693
+Vietnam->Philippines	9948
+Vietnam->Poland	7796
+Vietnam->Portugal	8416
+Vietnam->Qatar	9702
+Vietnam->Romania	8899
+Vietnam->Russia	7784
+Vietnam->Saudi Arabia	8062
+Vietnam->Singapore	7301
+Vietnam->South Africa	9055
+Vietnam->South Korea	9668
+Vietnam->Spain	9106
+Vietnam->Sweden	8106
+Vietnam->Switzerland	7956
+Vietnam->Thailand	7050
+Vietnam->Turkey	9049
+Vietnam->UAE	7056
+Vietnam->UK	10462
+Vietnam->USA	6665
+Vietnam->Ukraine	8952
